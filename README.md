@@ -32,8 +32,10 @@ Learning Goals for this project included:
 ## Demo
 Add Books to shelf:
 <img width="1437" alt="add" src="https://user-images.githubusercontent.com/102934145/218268702-641f0611-d389-4d64-9c8b-69ea00601283.png">
+<br>
 Single book view:
 <img width="1437" alt="single-book" src="https://user-images.githubusercontent.com/102934145/218268716-f7d4996b-9302-4240-8519-dba1c247c301.png">
+<br>
 Mobile views:
 <img width="484" alt="about-mobile" src="https://user-images.githubusercontent.com/102934145/218268755-04231c29-0345-4492-bb9b-5746943c7933.png">
 <img width="484" alt="browse-mobile" src="https://user-images.githubusercontent.com/102934145/218268767-bd90d832-ac10-4ae4-861b-da43b0b5ab3e.png">
