@@ -1,5 +1,5 @@
 <p align="center">
-<img width='200' alt='Bookmarked logo' src='https://user-images.githubusercontent.com/102934145/207666618-8a5db8d8-3604-42bd-adf3-61c3a810be41.png'>
+<img width="200" alt="Bookmarked logo" src="https://user-images.githubusercontent.com/102934145/218268534-2eaa30d8-2874-4fcc-9a87-373dfa94de50.png">
 </p>
 <h1 align="center">Bookmarked</h1>
 <h2 align="center">Where Book Lovers Gather</h2>
@@ -30,9 +30,13 @@ Learning Goals for this project included:
 [Project Spec and Rubric](https://mod4.turing.edu/projects/capstone/index.html)
 
 ## Demo
-![2022-12-14 19 35 01](https://user-images.githubusercontent.com/103966650/207759575-a7443b50-b1f6-433d-98be-11fe02d1c96e.gif)
-
-![2022-12-14 19 31 03](https://user-images.githubusercontent.com/103966650/207759593-08d323e1-aa70-4f96-8fe7-9c0e1e08be42.gif)
+Add Books to shelf:
+<img width="1437" alt="add" src="https://user-images.githubusercontent.com/102934145/218268702-641f0611-d389-4d64-9c8b-69ea00601283.png">
+Single book view:
+<img width="1437" alt="single-book" src="https://user-images.githubusercontent.com/102934145/218268716-f7d4996b-9302-4240-8519-dba1c247c301.png">
+Mobile views:
+<img width="484" alt="about-mobile" src="https://user-images.githubusercontent.com/102934145/218268755-04231c29-0345-4492-bb9b-5746943c7933.png">
+<img width="484" alt="browse-mobile" src="https://user-images.githubusercontent.com/102934145/218268767-bd90d832-ac10-4ae4-861b-da43b0b5ab3e.png">
 
 ## Setup
 1. From your terminal, `cd` back to your parent directory
